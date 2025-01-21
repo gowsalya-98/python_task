@@ -46,13 +46,13 @@
 # print(product)
 
 
-# product=1
-# while(True):
-#     num=int(input("enter the number (enter  to stop):"))
-#     if(num==0):
-#      break
-#     product*=num
-# print("the product the all numbers is:" ,product)
+product=1
+while(True):
+    num=int(input("enter the number (enter  to stop):"))
+    if(num==0):
+     break
+    product*=num
+print("the product the all numbers is:" ,product)
 
 # total_sum=0
 # while(True):

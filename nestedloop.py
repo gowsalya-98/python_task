@@ -104,16 +104,16 @@
 
 #  patters 30  
 
-# letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
-# rows = 5
-# cols = 5
-# index = 0
-# for i in range(rows):
-#     for j in range(cols):
-#         if index < len(letters):
-#             print(letters[index], end=" ")
-#             index += 1
-#     print()
+letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+rows = 5
+cols = 5
+index = 0
+for i in range(rows):
+    for j in range(cols):
+        if index < len(letters):
+            print(letters[index], end=" ")
+            index += 1
+    print()
 
 # patterns 23
 
@@ -146,5 +146,9 @@
 #         value = 1 - value 
 #     print()
 
+# patters 37
 
-
+# for i in range(1,6):
+#     for j in range(1,i+1):
+#         print(6-i,end="")
+#     print()
