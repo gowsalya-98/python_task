@@ -4,6 +4,7 @@
 #     print( number)
 # for w in "hello":
 #     print(w)
+
 # sum=0
 # for i in range(1,11):
 #     # print(i)
@@ -15,6 +16,9 @@
 #     print(i)
 # for i in range(20,50,+5):
 #     print(i)
+
+
+
 # a=15
 # factorial=10
 # for i in range(1,a+1):
@@ -28,12 +32,16 @@
 #             is_prime=False
 #       if(is_prime):
 #           print(num)
+
+
 # number=[1,800,73,43,67,80]
 # large_number=number[0]
 # for num in number:
 #  if(num>large_number):
 #   large_number=num
 # print("large valu:",large_number)
+
+
 # number=[12,4,456,800]
 # greater_number=number[0]
 # for num in number:
@@ -46,13 +54,13 @@
 # print(product)
 
 
-product=1
-while(True):
-    num=int(input("enter the number (enter  to stop):"))
-    if(num==0):
-     break
-    product*=num
-print("the product the all numbers is:" ,product)
+# product=1
+# while(True):
+#     num=int(input("enter the number (enter  to stop):"))
+#     if(num==0):
+#      break
+#     product*=num
+# print("the product the all numbers is:" ,product)
 
 # total_sum=0
 # while(True):
@@ -71,22 +79,22 @@ print("the product the all numbers is:" ,product)
 #         count+=1
 # print("count the number of vowels:",count)
 
-input_string="hello worlds in "
-output_string=""
-index=0
-for char in input_string:
-    if char!=" ":
-        output_string+=char
-print(" string without space:",output_string)
+# input_string="hello worlds in "
+# output_string=""
+# index=0
+# for char in input_string:
+#     if char!=" ":
+#         output_string+=char
+# print(" string without space:",output_string)
 
 
-input_string="hello saravanamani "
-output_string=""
-index=0
-while index < len(input_string):
-    if input_string [index]!=" ":
-        output_string+=input_string[index]
-    index+=1    
-print("string without space:",output_string)
+# input_string="hello saravanamani "
+# output_string=""
+# index=0
+# while index < len(input_string):
+#     if input_string [index]!=" ":
+#         output_string+=input_string[index]
+#     index+=1    
+# print("string without space:",output_string)
 
 

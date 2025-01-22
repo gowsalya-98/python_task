@@ -1,0 +1,26 @@
+1
+# string="i like apple"
+# r=string.replace("like","love")
+# print(r)
+# vowels=["a","i","o","e","u"]
+# count=0
+# for num in r:
+#     if num in  vowels:
+#         count+=1
+# print("count the number of vowels:",count)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
