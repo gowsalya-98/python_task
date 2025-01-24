@@ -35,10 +35,10 @@
 
 
 # 5
-txt="kids life is very  happy"
-s=txt.isascii()
-print(s)
-print(ord("A"))
+# txt="kids life is very  happy"
+# s=txt.isascii()
+# print(s)
+# print(ord("A"))
 
 
 
