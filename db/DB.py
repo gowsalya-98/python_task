@@ -61,3 +61,6 @@ mydict = [
 #   print(x)
 
 
+# myresult = mycol.find().limit(5)
+# for x in myresult:
+#   print(x)                                                           limit( 5)
