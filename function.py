@@ -1,6 +1,6 @@
-def square(a):
-    return a*a
-print("area of square:",square(5))
+# def square(a):
+#     return a*a
+# print("area of square:",square(5))
 
 # def rectangle(l,b):
 #     if(l==b):
